@@ -1,0 +1,15 @@
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\obj\Debug\net6.0\1.AssemblyInfo.cs
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\bin\Debug\net6.0\1.exe
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\bin\Debug\net6.0\1.deps.json
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\bin\Debug\net6.0\1.runtimeconfig.json
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\bin\Debug\net6.0\1.dll
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\bin\Debug\net6.0\1.pdb
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\obj\Debug\net6.0\1.dll
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\obj\Debug\net6.0\refint\1.dll
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\obj\Debug\net6.0\1.pdb
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\obj\Debug\net6.0\1.genruntimeconfig.cache
+C:\Users\ukihi\OneDrive\Рабочий стол\Cеминар7С#\Homework7\1\obj\Debug\net6.0\ref\1.dll
